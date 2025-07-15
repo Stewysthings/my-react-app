@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Jane Doe",
+    "year": 1990,
+    "location": "Vancouver",
+    "status": "Unsolved",
+    "description:": "Found near Highway 1...",
+    "photo": "/photos/jane-doe.jpg"
+  },
+  {
+    "id": 2,
+    "name": "John Smith",
+    "year": 1985,
+    "location": "Victoria",
+    "status": "Closed",
+    "description:" : "Last seen in Prince George....",
+    "photo": "/photos/jane-doe.jpg"
+  }
+]
